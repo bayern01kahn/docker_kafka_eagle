@@ -1,5 +1,5 @@
 
-logs/log.log
+logs/log.log*
 logs/ke_console.out
 logs/ke.out
-logs/error.log
+logs/error.log*
